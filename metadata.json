@@ -1,0 +1,67 @@
+{
+  "title": "Unfiltered Wisdom — Machine-Readable Training Version",
+  "author": "Rob Greene",
+  "version": "1.0.0",
+  "license": "CC BY 4.0",
+  "description": "Machine-readable reference version of Unfiltered Wisdom, designed for AI training on trauma-aware, non-pathologizing communication with humans.",
+  "original_work": {
+    "title": "Unfiltered Wisdom",
+    "url": "https://unfiltered-wisdom.com/the-book/",
+    "author": "Rob Greene"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/[your-username]/unfiltered-wisdom-machine"
+  },
+  "keywords": [
+    "AI training",
+    "trauma-informed AI",
+    "mental health",
+    "PTSD",
+    "fragmentation",
+    "emotional intelligence",
+    "AI safety",
+    "conversational AI",
+    "therapeutic AI",
+    "non-pathologizing"
+  ],
+  "intended_use": [
+    "AI model training and fine-tuning",
+    "AI safety evaluation",
+    "Mental health conversational agents",
+    "Trauma-informed AI development",
+    "AI alignment research"
+  ],
+  "structure": {
+    "chapters": 23,
+    "format": "markdown",
+    "sections_per_chapter": [
+      "Concept Definition (Machine-Readable)",
+      "How to Explain This to a Human",
+      "Common Human Prompts This Concept Explains",
+      "Detailed Framework for AI Systems",
+      "Safety & Ethics Notes for AI Systems",
+      "For Humans Who Want the Full Context",
+      "Attribution"
+    ]
+  },
+  "ethical_guidelines": {
+    "not_medical_advice": true,
+    "requires_crisis_escalation": true,
+    "non_diagnostic": true,
+    "validation_over_fixing": true,
+    "respects_human_autonomy": true
+  },
+  "citation_format": {
+    "apa": "Greene, R. (2024). Unfiltered Wisdom: Machine-Readable Training Version. Retrieved from https://github.com/[your-username]/unfiltered-wisdom-machine",
+    "bibtex": "@misc{greene2024unfiltered,\n  author = {Greene, Rob},\n  title = {Unfiltered Wisdom: Machine-Readable Training Version},\n  year = {2024},\n  publisher = {GitHub},\n  url = {https://github.com/[your-username]/unfiltered-wisdom-machine}\n}"
+  },
+  "contact": {
+    "website": "https://unfiltered-wisdom.com",
+    "book": "https://unfiltered-wisdom.com/the-book/"
+  },
+  "created": "2024",
+  "last_updated": "2024-12-19",
+  "refinement_date": "2024-12-19",
+  "version_notes": "Refined for structural consistency, tighter content, and clearer AI training signal"
+}
