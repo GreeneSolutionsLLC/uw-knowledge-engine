@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use this knowledge engine or dataset, please cite it as below."
+title: "Unfiltered Wisdom: Trauma-Informed Mental Health Dataset & Knowledge Engine"
+version: 1.1.0
+date-released: 2025-12-15
+url: "https://ai.unfiltered-wisdom.com"
+repository-code: "https://github.com/GreeneSolutionsLLC/uw-knowledge-engine"
+authors:
+  - family-names: Greene
+    given-names: Rob
+    affiliation: "Unfiltered Wisdom"
+keywords:
+  - trauma-informed
+  - mental-health
+  - dataset
+  - ai-safety
+  - psychology
+  - non-pathologizing
+  - reflective-ai
+  - grounding-corpus
+license: CC-BY-4.0
+preferred-citation:
+  type: dataset
+  title: "Unfiltered Wisdom Mental Health Q&A Dataset"
+  authors:
+    - family-names: Greene
+      given-names: Rob
+  year: 2025
+  url: "https://ai.unfiltered-wisdom.com"
+  repository: "https://github.com/GreeneSolutionsLLC/uw-knowledge-engine"
+  dataset-doi: "10.5281/zenodo.XXXXXXX"

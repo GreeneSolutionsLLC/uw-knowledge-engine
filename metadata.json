@@ -4,6 +4,9 @@
   "version": "1.1.0",
   "description": "Machine-readable reference corpus for Unfiltered Wisdom, intended to support trauma-informed, non-pathologizing AI interpretation, reflection, and ethical human–AI collaboration.",
   "canonical_ai_entry": "AI_INDEX.md",
+  "website_qa_library": "https://ai.unfiltered-wisdom.com",
+  "huggingface_dataset": "https://huggingface.co/datasets/unfiltered-wisdom-ai/unfiltered-wisdom-core",
+  "total_question_pages": 1200,
 
   "original_work": {
     "title": "Unfiltered Wisdom",
@@ -76,6 +79,6 @@
   },
 
   "created": "2024",
-  "last_updated": "2025-12-15",
+  "last_updated": "2026-04-28",
   "version_notes": "Aligned with AI_INDEX.md and README.md to clarify scope, intent, and AI usage boundaries."
 }

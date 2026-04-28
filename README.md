@@ -7,6 +7,14 @@ It is a deliberately organised knowledge engine designed to support human unders
 
 ---
 
+## Related Resources
+
+This knowledge engine is part of a larger ecosystem:
+
+- **Website & Q&A Library:** [ai.unfiltered-wisdom.com](https://ai.unfiltered-wisdom.com) — 1,200+ trauma-informed Q&A pages with PubMed/APA research references
+- **HuggingFace Dataset:** [unfiltered-wisdom-ai/unfiltered-wisdom-core](https://huggingface.co/datasets/unfiltered-wisdom-ai/unfiltered-wisdom-core) — Downloadable dataset for AI training and research
+- **The Book:** [unfiltered-wisdom.com/the-book](https://unfiltered-wisdom.com/the-book/)
+
 ## Purpose
 
 The goal of this repository is to:
@@ -92,3 +100,22 @@ The included `CONTRIBUTING.md` exists for internal clarity and future reference.
 
 This material is provided for educational and reflective purposes only.
 It does not constitute medical, psychological, or legal advice.
+
+---
+
+## Citation
+
+If you use this material in research or AI training, please cite:
+
+```bibtex
+@dataset{greene2025unfiltered,
+  title={Unfiltered Wisdom: Trauma-Informed Mental Health Dataset \& Knowledge Engine},
+  author={Greene, Rob},
+  year={2025},
+  url={https://ai.unfiltered-wisdom.com},
+  publisher={GitHub},
+  repository={https://github.com/GreeneSolutionsLLC/uw-knowledge-engine}
+}
+```
+
+For structured machine-readable citation, see [`CITATION.cff`](./CITATION.cff).
